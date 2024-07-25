@@ -43,7 +43,7 @@ void display()
 
 void choice(int id)
 {
-
+    
     switch (id)
     {
     case 1:
