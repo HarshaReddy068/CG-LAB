@@ -98,6 +98,6 @@ int main(int argc, char **argv)
     glutCreateWindow("Line Drawing Program");
     myinit();
     glutDisplayFunc(display);
-    glutMainLoop();
+    glutMainLo op();
     return 0;
 }
